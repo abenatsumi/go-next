@@ -8,7 +8,7 @@
 ### :cherry_blossom: メニューの中にソート項目がある
 
 > ゾゾタウン
-![ScreenClip.png](D:\Users\webstaff\Desktop\プリモスマホ\ScreenClip.png)
+![my image](D:\Users\webstaff\Desktop\プリモスマホ\ScreenClip.png)
 
 > ピーチジョン
 ![ScreenClip.png](D:\Users\webstaff\Desktop\プリモスマホ\ScreenClip2.png)
